@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an online penetration testing platform<br>👯 I’m looking to collaborate on mobile and web apps<br>💬 Ask me about React-native or Java and lets talk <br>⚡ Fun fact, I'm not much of a talker, I let the code do the talking 😼
+🔭 I’m currently working on a big banger<br>👯 I’m looking to collaborate on mobile and web apps<br>💬 Ask me about React-native or Java and lets talk <br>⚡ Fun fact, I'm not much of a talker, I let the code do the talking 😼
 
 
 ## 🌐 Socials:
